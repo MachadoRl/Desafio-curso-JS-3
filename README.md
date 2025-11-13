@@ -1,2 +1,9 @@
-# Desafio-curso-JS-3
-Desafio proposto para aplicação e aprendizado de JS do curso de Javascript do Curso em Vídeo lecionado por Gustavo Guanabara
+# Vamos Contar - Curso em Vídeo
+
+Desafio proposto para aplicação e aprendizado de Javascript, do curso de Javascript da plataforma Curso em Vídeo lecionada por Gustavo Guanabara.
+
+
+## Screenshots
+
+![App Screenshot](imgGithub/print1.png)
+![App Screenshot](imgGithub/print2.png)
