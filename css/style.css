@@ -1,0 +1,13 @@
+section {
+    max-width:  70%;
+}
+
+img {
+    border-radius: 100%;
+}
+
+@media (min-width: 1200px) {
+    section {
+    max-width:  50%;
+}
+}
