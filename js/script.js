@@ -11,7 +11,7 @@ function showRes(event) {
   let fim = Number(fimVal.value);
   let passos = Number(passosVal.value);
 
-  if (passos != 0) {
+  if (passos > 0) {
     if (inicio < fim) {
       for (let i = inicio; i <= fim; i += passos) {
         campoRes.innerHTML += `${i} > `;
@@ -31,3 +31,4 @@ function showRes(event) {
 }
 
 form.addEventListener("submit", showRes);
+
